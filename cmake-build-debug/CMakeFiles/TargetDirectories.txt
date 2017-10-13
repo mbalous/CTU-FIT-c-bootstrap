@@ -1,3 +1,0 @@
-/home/users/b/balouma2/CLionProjects/HelloC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/users/b/balouma2/CLionProjects/HelloC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/users/b/balouma2/CLionProjects/HelloC/cmake-build-debug/CMakeFiles/HelloC.dir
